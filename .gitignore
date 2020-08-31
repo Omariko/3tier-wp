@@ -1,0 +1,6 @@
+*.terraform
+omar
+omar.pub
+terraform.tfstate
+terraform.tfstate.*
+.terraform.*
